@@ -1,7 +1,7 @@
 [![Releases](https://img.shields.io/github/downloads/echo000/saluki-releases/total.svg)](https://github.com/echo000/saluki-releases/releases) [![Discord](https://img.shields.io/badge/chat-Discord-blue.svg)](https://discord.gg/eY2Y5p2PEp)
 
 # Saluki
-Saluki is an asset extractor for games using the IW Engine (Call of Duty games), and is the successor to [Greyhound](https://github.com/Scobalula/Greyhound/)
+Saluki is an asset extractor for games using the IW Engine (Call of Duty games), and is the successor to [Greyhound](https://github.com/Scobalula/Greyhound/), built from the ground up in the rust programming language, with a new UI, features and many speed and quality of life improvements.
 
 ## Features
 
