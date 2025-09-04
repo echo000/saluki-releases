@@ -1,2 +1,30 @@
-# saluki-releases
-Saluki
+[![Releases](https://img.shields.io/github/downloads/echo000/saluki-releases/total.svg)](https://github.com/echo000/saluki-releases/releases) [![Discord](https://img.shields.io/badge/chat-Discord-blue.svg)](https://discord.gg/eY2Y5p2PEp)
+
+# Saluki
+Saluki is an asset extractor for games using the IW Engine (Call of Duty games), and is the successor to [Greyhound](https://github.com/Scobalula/Greyhound/)
+
+## Features
+
+* Extracts models, textures, animations, sounds, and other assets from IW Engine games
+* In built preview for models, textures, and sounds
+
+## Ricochet Info
+
+For titles using Ricochet, [Cordycep](https://github.com/Scobalula/Cordycep) must be used to extract assets.
+
+## Usage
+
+For specifics on how to use Saluki, please refer to the [Tools Tutorial](https://dtzxporter.com/game-tools-tutorial)
+
+## Requirements
+
+The following tools/plugins are required/recommended for some assets/games:
+
+* [Cast](https://github.com/dtzxporter/Cast) by DTZxPorter (.cast) (Autodesk Maya/Blender)
+* [FileTypeDDS](https://github.com/dtzxporter/FileTypeDDS) by DTZxPorter (support in Paint .NET for newer DXGI formats) (Paint .NET)
+* [Intel TextureWorks](https://software.intel.com/en-us/articles/intel-texture-works-plugin) by Intel (DDS + Utils) (Photoshop)
+* [DarkIris](https://aviacreations.com/modme/index.php?view=topic&tid=831) by DTZxPorter (Texture Utils) (Paint .NET)
+
+## Credits/Contributors
+
+Saluki was made by [echo000](https://github.com/echo000/) & [dest1yo](https://github.com/dest1yo/), using [porter-lib](https://github.com/dtzxporter/porter-lib)
