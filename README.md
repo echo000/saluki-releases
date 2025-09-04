@@ -7,6 +7,7 @@ Saluki is an asset extractor for games using the IW Engine (Call of Duty games),
 
 * Extracts models, textures, animations, sounds, and other assets from IW Engine games
 * In built preview for models, textures, and sounds
+* Auto updates for the program and the hash packages
 
 ## Ricochet Info
 
