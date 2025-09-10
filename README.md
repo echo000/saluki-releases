@@ -24,7 +24,6 @@ The following tools/plugins are required/recommended for some assets/games:
 * [Cast](https://github.com/dtzxporter/Cast) by DTZxPorter (.cast) (Autodesk Maya/Blender)
 * [FileTypeDDS](https://github.com/dtzxporter/FileTypeDDS) by DTZxPorter (support in Paint .NET for newer DXGI formats) (Paint .NET)
 * [Intel TextureWorks](https://software.intel.com/en-us/articles/intel-texture-works-plugin) by Intel (DDS + Utils) (Photoshop)
-* [DarkIris](https://aviacreations.com/modme/index.php?view=topic&tid=831) by DTZxPorter (Texture Utils) (Paint .NET)
 
 ## Credits/Contributors
 
