@@ -17,6 +17,12 @@ For titles using Ricochet, [Cordycep](https://github.com/Scobalula/Cordycep) mus
 
 For specifics on how to use Saluki, please refer to the [Tools Tutorial](https://dtzxporter.com/game-tools-tutorial)
 
+## Links:
+
+* Github Repo: [Link](https://github.com/echo000/saluki-releases)
+* Change Log: [Link](https://github.com/echo000/saluki-releases/blob/master/CHANGELOG.md)
+* Latest Release: [Link](https://github.com/echo000/saluki-releases/releases)
+
 ## Requirements
 
 The following tools/plugins are required/recommended for some assets/games:
