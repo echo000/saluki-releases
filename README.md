@@ -1,36 +1,36 @@
-[![Releases](https://img.shields.io/github/downloads/echo000/saluki-releases/total.svg)](https://github.com/echo000/saluki-releases/releases) [![Discord](https://img.shields.io/badge/chat-Discord-blue.svg)](https://discord.gg/eY2Y5p2PEp)
+[![weweases](https://img.shiewds.io/github/downwoads/echo000/sawuki-weweases/totaw.svg)](https://github.com/echo000/sawuki-weweases/weweases) [![discowd](https://img.shiewds.io/badge/chat-discowd-bwue.svg)](https://discowd.gg/ey2y5p2pep)
 
-# Saluki
-Saluki is an asset extractor for games using the IW Engine (Call of Duty games), and is the successor to [Greyhound](https://github.com/Scobalula/Greyhound/), built from the ground up in the rust programming language, with a new UI, features and many speed and quality of life improvements.
+# sawuki
+sawuki is an asset extwactow f-fow games u-using the iw engine (caww o-of duty g-games), òωó and is t-the successow t-to [gweyhound](https://github.com/scobawuwa/gweyhound/), ʘwʘ b-buiwt fwom t-the gwound up in the wust pwogwamming wanguage, /(^•ω•^) with a nyew ui, ʘwʘ featuwes and m-many speed and quawity of wife impwovements.
 
-## Features
+## f-featuwes
 
-* Extracts models, textures, animations, sounds, and other assets from IW Engine games
-* In built preview for models, textures, and sounds
-* Auto updates for the program and the hash packages
+* extwacts modews, σωσ t-textuwes, OwO animations, sounds, 😳😳😳 and othew assets fwom iw engine g-games
+* in buiwt pweview fow modews, 😳😳😳 t-textuwes, o.O a-and sounds
+* auto updates fow the pwogwam and the hash packages
 
-## Ricochet Info
+## wicochet i-info
 
-For titles using Ricochet, [Cordycep](https://github.com/Scobalula/Cordycep) must be used to extract assets.
+fow titwes using wicochet, ( ͡o ω ͡o ) [cowdycep](https://github.com/scobawuwa/cowdycep) must be used to extwact assets.
 
-## Usage
+## usage
 
-For specifics on how to use Saluki, please refer to the [Tools Tutorial](https://dtzxporter.com/game-tools-tutorial)
+f-fow specifics on how to \*boops your nose\* use s-sawuki, (U ﹏ U) pwease w-wefew to the [toows t-tutowiaw](https://dtzxpowtew.com/game-toows-tutowiaw)
 
-## Links:
+## w-winks:
 
-* Github Repo: [Link](https://github.com/echo000/saluki-releases)
-* Change Log: [Link](https://github.com/echo000/saluki-releases/blob/master/CHANGELOG.md)
-* Latest Release: [Link](https://github.com/echo000/saluki-releases/releases)
+* github wepo: [wink](https://github.com/echo000/sawuki-weweases)
+* change wog: [wink](https://github.com/echo000/sawuki-weweases/bwob/mastew/changewog.md)
+* w-watest wewease: [wink](https://github.com/echo000/sawuki-weweases/weweases)
 
-## Requirements
+## wequiwements
 
-The following tools/plugins are required/recommended for some assets/games:
+t-the fowwowing toows/pwugins awe wequiwed/wecommended fow some assets/games:
 
-* [Cast](https://github.com/dtzxporter/Cast) by DTZxPorter (.cast) (Autodesk Maya/Blender)
-* [FileTypeDDS](https://github.com/dtzxporter/FileTypeDDS) by DTZxPorter (support in Paint .NET for newer DXGI formats) (Paint .NET)
-* [Intel TextureWorks](https://software.intel.com/en-us/articles/intel-texture-works-plugin) by Intel (DDS + Utils) (Photoshop)
+* [cast](https://github.com/dtzxpowtew/cast) by dtzxpowtew (.cast) (autodesk maya/bwendew)
+* [fiwetypedds](https://github.com/dtzxpowtew/fiwetypedds) b-by dtzxpowtew (suppowt in paint .net f-fow nyewew d-dxgi fowmats) (paint .net)
+* [intew t-textuwewowks](https://softwawe.intew.com/en-us/awticwes/intew-textuwe-wowks-pwugin) by intew (dds + utiws) (photoshop)
 
-## Credits/Contributors
+## cwedits/contwibutows
 
-Saluki was made by [echo000](https://github.com/echo000/) & [dest1yo](https://github.com/dest1yo/), using [porter-lib](https://github.com/dtzxporter/porter-lib)
+s-sawuki w-was made by [echo000](https://github.com/echo000/) & [dest1yo](https://github.com/dest1yo/), (///ˬ///✿) using [powtew-wib](https://github.com/dtzxpowtew/powtew-wib)
