@@ -34,7 +34,6 @@ For specifics on how to use Saluki, please refer to the [Tools Tutorial](https:/
 The following tools/plugins are required/recommended for some assets/games:
 
 * [Cast](https://github.com/dtzxporter/Cast) by DTZxPorter (.cast) (Autodesk Maya/Blender)
-* [FileTypeDDS](https://github.com/dtzxporter/FileTypeDDS) by DTZxPorter (support in Paint .NET for newer DXGI formats) (Paint .NET)
 * [Intel TextureWorks](https://software.intel.com/en-us/articles/intel-texture-works-plugin) by Intel (DDS + Utils) (Photoshop)
 
 ## Credits/Contributors
