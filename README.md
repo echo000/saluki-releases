@@ -22,6 +22,7 @@ For titles using Ricochet, [Cordycep](https://github.com/Scobalula/Cordycep) mus
 ## Usage
 
 For specifics on how to use Saluki, please refer to the [Tools Tutorial](https://dtzxporter.com/game-tools-tutorial)
+If you have OBS installed, please ensure it is updated to the latest version, as older versions have been known to cause issues with Vulkan.
 
 ## Links:
 
