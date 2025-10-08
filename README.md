@@ -9,6 +9,12 @@ Saluki is an asset extractor for games using the IW Engine (Call of Duty games),
 * In built preview for models, textures, and sounds
 * Auto updates for the program and the hash packages
 
+## Donations
+While donations are not required, they are greatly appreciated and help to cover development.
+If you would like to support the development of Saluki, you can do so via the below links:
+- [echo000](https://ko-fi.com/echo000)
+- [dest1yo](https://ko-fi.com/dest1yo)
+
 ## Ricochet Info
 
 For titles using Ricochet, [Cordycep](https://github.com/Scobalula/Cordycep) must be used to extract assets.
