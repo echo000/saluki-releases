@@ -2,6 +2,15 @@
 
 All notable changes to this project are documented in this file. Versions are listed from newest to oldest.
 
+## [0.2.2] - 08-10-2025
+
+- Fix an error with abnormal paths
+
+## [0.2.1] - 08-10-2025
+
+- Add sort by details
+- Animations can now search by bone count
+
 ## [0.2.0] - 08-10-2025
 
 - Fix animation issues with older games
