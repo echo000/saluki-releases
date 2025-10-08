@@ -11,6 +11,7 @@ Saluki is an asset extractor for games using the IW Engine (Call of Duty games),
 
 ## Donations
 While donations are not required, they are greatly appreciated and help to cover development.
+
 If you would like to support the development of Saluki, you can do so via the below links:
 - [echo000](https://ko-fi.com/echo000)
 - [dest1yo](https://ko-fi.com/dest1yo)
@@ -22,6 +23,7 @@ For titles using Ricochet, [Cordycep](https://github.com/Scobalula/Cordycep) mus
 ## Usage
 
 For specifics on how to use Saluki, please refer to the [Tools Tutorial](https://dtzxporter.com/game-tools-tutorial)
+
 If you have OBS installed, please ensure it is updated to the latest version, as older versions have been known to cause issues with Vulkan.
 
 ## Links:
