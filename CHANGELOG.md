@@ -2,6 +2,14 @@
 
 All notable changes to this project are documented in this file. Versions are listed from newest to oldest.
 
+## [0.2.3] - 09-10-2025
+
+- Fix IW model issues
+
+## [0.2.3] - 09-10-2025
+
+- Fix Vulkan issues
+
 ## [0.2.2] - 08-10-2025
 
 - Fix an error with abnormal paths
