@@ -3,6 +3,8 @@
 # Saluki
 Saluki is an asset extractor for games using the IW Engine (Call of Duty games), and is the successor to [Greyhound](https://github.com/Scobalula/Greyhound/), built from the ground up in the rust programming language, with a new UI, features and many speed and quality of life improvements.
 
+Saluki now supports all Call of Duty games released on PC from Call of Duty 1 to Black Ops 7.
+
 ## Features
 
 * Extracts models, textures, animations, sounds, and other assets from IW Engine games
