@@ -2,9 +2,14 @@
 
 All notable changes to this project are documented in this file. Versions are listed from newest to oldest.
 
-## [0.2.3] - 09-10-2025
+## [0.2.5] - 12-10-2025
 
-- Fix IW model issues
+- Cod 1 & 2 support
+
+## [0.2.4] - 10-10-2025
+
+- Fix incorrect LOD sorting
+- Fix IW Bones crashes
 
 ## [0.2.3] - 09-10-2025
 
