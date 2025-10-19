@@ -2,6 +2,12 @@
 
 All notable changes to this project are documented in this file. Versions are listed from newest to oldest.
 
+## [0.2.6] - 19-10-2025
+
+- Changed updates, they will now happen during the splash screen
+- Sound banks for MW2019->BO6 (BO7 already done)
+- Fix sound export issues for loaded sabs
+
 ## [0.2.5] - 12-10-2025
 
 - Cod 1 & 2 support
