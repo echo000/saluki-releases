@@ -22,6 +22,10 @@ If you would like to support the development of Saluki, you can do so via the be
 
 For titles using Ricochet, [Cordycep](https://github.com/Scobalula/Cordycep) must be used to extract assets.
 
+## NX1/Xenia Info
+
+For NX1 a specific build of Xenia is required: [Xenia](https://github.com/echo000/xenia-canary/releases). Saluki WILL NOT work with xenia unless you are using this build.
+
 ## Usage
 
 For specifics on how to use Saluki, please refer to the [Tools Tutorial](https://dtzxporter.com/game-tools-tutorial)
